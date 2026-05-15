@@ -1,5 +1,5 @@
 def main():
-    print("Hello from git-github-merge-test! 7")
+    print("Hello from git-github-merge-test! 8")
 
 
 if __name__ == "__main__":
